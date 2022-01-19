@@ -1,3 +1,3 @@
 # apresentation
 
-<img srrc="head.png">
+<img src="head.png">
