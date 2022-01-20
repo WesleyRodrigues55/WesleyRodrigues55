@@ -10,11 +10,11 @@
 * GIT
 * GitHub
 
-## Frameworks and Library
+##### <img src="framework_library.png">
 * Bootstrap v4+
 * CodeIgniter 4
-
-## Learning
+* 
+##### <img src="learning.png">
 * AJAX
 * TypeScript
 * Angular
