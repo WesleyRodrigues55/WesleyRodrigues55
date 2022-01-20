@@ -13,7 +13,7 @@
 ##### <img src="framework_library.png">
 * Bootstrap v4+
 * CodeIgniter 4
-* 
+
 ##### <img src="learning.png">
 * AJAX
 * TypeScript
