@@ -11,8 +11,8 @@
 * GitHub
 
 ##### <img src="framework_library.png">
-* Bootstrap v4+
-* CodeIgniter 4
+* Bootstrap
+* CodeIgniter v4+
 
 ##### <img src="learning.png">
 * AJAX
