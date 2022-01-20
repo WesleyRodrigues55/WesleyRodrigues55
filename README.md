@@ -1,6 +1,6 @@
 <img src="head.png">
 
-## Habilidades
+## Skills
 * Photoshop
 * HTML 5
 * CSS 3
@@ -14,7 +14,7 @@
 * Bootstrap v4+
 * CodeIgniter 4
 
-## Aprendendo
+## Learning
 * AJAX
 * TypeScript
 * Angular
