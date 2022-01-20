@@ -1,6 +1,6 @@
 <img src="head.png">
 
-##### <img src="aaa.png">
+##### <img src="habilidades.png">
 * Photoshop
 * HTML 5
 * CSS 3
