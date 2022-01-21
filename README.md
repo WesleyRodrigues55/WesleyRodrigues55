@@ -1,4 +1,5 @@
-<img src="head.png">
+
+![https://raw.githubusercontent.com/WesleyRodrigues55/WesleyRodrigues55/main/head.png]
 
 ##### <img src="habilidades.png">
 * Photoshop
