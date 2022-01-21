@@ -1,12 +1,14 @@
 # <img src="head.png">
 
 ##### <img src="sobre.png">
-## Formado em algo?
+## Formação:
 ###### Formado em Técnico em Ánalise e Desenolvimento de Sistemas e alguns cursos online como Design de Interfaces e Desenovilmento WEB.
-## Estudando no momento?
-###### Sim, estou estudando Ánalise e Desenolvimento de Sistemas Tecnólogo, além de estar estudando a parte JavaScript e TypeScript voltado pra Angular e React
-###### Sou uma pessoa que está na luta ai pra ser um Full Stack. A é, e eu adoro ler documentação sobre as linguagens de programação ou suas bibliotecas.
-
+## Estudando no momento:
+###### Sim, estou estudando Ánalise e Desenvolvimento de Sistemas (Tecnólogo), além de estar estudando a parte JavaScript e TypeScript voltado pra Angular e React
+## Experiência profissional
+##### Sou novo na área da programação e tbalho na área praticamente 1 ano 2020/2021, sou WEb Designer e estou na busca de me tornar um Desenvolvedor Júnior.
+## Futuro?
+##### Pretendo me especializar na área da Tecnologia, e aprender tudo que pude.
 ##### <img src="habilidades.png">
 * Photoshop
 * HTML 5
