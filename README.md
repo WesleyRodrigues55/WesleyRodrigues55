@@ -2,9 +2,9 @@
 
 ##### <img src="sobre.png">
 ## Formação:
-###### Formado em Técnico em Ánalise e Desenolvimento de Sistemas e alguns cursos online como Design de Interfaces e Desenovilmento WEB.
+###### Formado em Técnico em Ánalise e Desenolvimento de Sistemas (Etec) e alguns cursos online como Design de Interfaces e Desenovilmento WEB (Udemy).
 ## Estudando no momento:
-###### Sim, estou estudando Ánalise e Desenvolvimento de Sistemas (Tecnólogo), além de estar estudando a parte JavaScript e TypeScript voltado pra Angular e React
+###### Sim, estou estudando Ánalise e Desenvolvimento de Sistemas (Tecnólogo  na Uniso), além de estar estudando a parte JavaScript e TypeScript voltado pra Angular e React
 ## Experiência profissional
 ##### Sou novo na área da programação e tbalho na área praticamente 1 ano 2020/2021, sou WEb Designer e estou na busca de me tornar um Desenvolvedor Júnior.
 ## Futuro?
