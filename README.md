@@ -1,4 +1,4 @@
-# <img src="head.png">
+# <img src="apresentacao.png">
 
 ##### <img src="sobre.png">
 ## Formação:
