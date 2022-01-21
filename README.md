@@ -8,7 +8,7 @@
 ## Experiência profissional
 ##### Sou novo na área da programação e tbalho na área praticamente 1 ano 2020/2021, sou WEb Designer e estou na busca de me tornar um Desenvolvedor Júnior.
 ## Futuro?
-##### Pretendo me especializar na área da Tecnologia, e aprender tudo que pude.
+##### Pretendo me especializar na área da Tecnologia, e aprender tudo que puder.
 ##### <img src="habilidades.png">
 * Photoshop
 * HTML 5
