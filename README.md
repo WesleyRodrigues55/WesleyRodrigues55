@@ -27,5 +27,7 @@
 * TypeScript
 * Angular
 * React
+* Next.js
 * NPM
+* YARN
 
