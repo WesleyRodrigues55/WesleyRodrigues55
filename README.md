@@ -8,7 +8,7 @@
 ###### Sou novo na área da programação trabalho na área praticamente 1 ano 2020/2021, sou WEB Designer e estou na busca de me tornar um Desenvolvedor Júnior.
 ## Futuro?
 ###### Pretendo me especializar na área da Tecnologia, e aprender tudo que puder.
-##### Habilidades:
+### Habilidades:
 * Photoshop
 * HTML 5
 * CSS 3
@@ -18,11 +18,11 @@
 * GIT
 * GitHub
 
-##### Frameworks e Library
+### Frameworks e Library
 * Bootstrap
 * CodeIgniter v4+
 
-##### Aprendendo
+### Aprendendo
 * AJAX
 * TypeScript
 * Angular
