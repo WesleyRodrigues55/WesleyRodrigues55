@@ -21,27 +21,22 @@
 * MySQL
 * TOTVS -RM Portal
 
-<div style="float: left">
-  <div>
-    ### Ferramentas:
-    * Visual Studio Code
-    * Visual Studio
-    * XAMPP
-    * Pacote Adobe
-    * Azure
-    * Git
-    * GitHUb
-    * Máquina virtual
-    * FileZilla
-    * Reporting Services
-    * Canva
-  </div>
-  <div>
-    ### Frameworks e Library:
-    * Bootstrap
-    * CodeIgniter v4+
-   <div>
-     <div>
+### Ferramentas:
+* Visual Studio Code
+* Visual Studio
+* XAMPP
+* Pacote Adobe
+* Azure
+* Git
+* GitHUb
+* Máquina virtual
+* FileZilla
+* Reporting Services
+* Canva
+
+### Frameworks e Library:
+* Bootstrap
+* CodeIgniter v4+
 
 ### Aprendendo:
 * AJAX
