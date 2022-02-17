@@ -22,23 +22,26 @@
 * TOTVS -RM Portal
 
 <div style="float: left">
-  ### Ferramentas:
-  * Visual Studio Code
-  * Visual Studio
-  * XAMPP
-  * Pacote Adobe
-  * Azure
-  * Git
-  * GitHUb
-  * Máquina virtual
-  * FileZilla
-  * Reporting Services
-  * Canva
-
-
-### Frameworks e Library:
-* Bootstrap
-* CodeIgniter v4+
+  <div>
+    ### Ferramentas:
+    * Visual Studio Code
+    * Visual Studio
+    * XAMPP
+    * Pacote Adobe
+    * Azure
+    * Git
+    * GitHUb
+    * Máquina virtual
+    * FileZilla
+    * Reporting Services
+    * Canva
+  </div>
+  <div>
+    ### Frameworks e Library:
+    * Bootstrap
+    * CodeIgniter v4+
+   <div>
+     <div>
 
 ### Aprendendo:
 * AJAX
@@ -48,4 +51,4 @@
 * Next.js
 * NPM
 * YARN
-</div>
+
