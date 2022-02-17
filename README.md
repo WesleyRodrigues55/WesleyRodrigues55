@@ -15,14 +15,30 @@
 * JavaScript
 * JQuery
 * PHP
-* GIT
-* GitHub
+* Xamarim.Forms
+* C#
+* SQL
+* MySQL
+* TOTVS -RM Portal
 
-### Frameworks e Library
+### Ferramentas:
+* Visual Studio Code
+* Visual Studio
+* XAMPP
+* Pacote Adobe
+* Azure
+* Git
+* GitHUb
+* Máquina virtual
+* FileZilla
+* Reporting Services
+* Canva
+
+### Frameworks e Library:
 * Bootstrap
 * CodeIgniter v4+
 
-### Aprendendo
+### Aprendendo:
 * AJAX
 * TypeScript
 * Angular
