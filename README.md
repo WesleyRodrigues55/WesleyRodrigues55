@@ -1,4 +1,7 @@
-# <img src="apresentacao.png">
+# About
+- Meu nome é Wesley Rodrigues, tenho 23 anos e atualmente trabalho com Web Designer e Estudo Análise e Desenvolvimento de Sistemas (4/5).
+- Sou uma pessoa bem curiosa, então sempre estou aprendendo alguma linguagem ou ferramenta nova.
+- Meus projetos no repositórios variam um pouco de linguagem pela questão de muitos serem projetos trabalhos acadêmicos, mas dentre eles há alguns projetos pessoais.
 
 Portfólio: <a href="https://wesleyrodrigues55.github.io/">https://wesleyrodrigues55.github.io/</a>
 
