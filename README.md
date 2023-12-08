@@ -15,7 +15,7 @@ Portfólio: <a href="https://wesleyrodrigues55.github.io/">https://wesleyrodrigu
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">
 </div>
 
-#### Frameworks
+#### Frameworks & Library
 <div style="display: flex; gap: 2; flex-wrap: wrap">
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
       <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="codeigniter">
