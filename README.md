@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">
-  <img src="https://img.shields.io/badge/SQL-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">
+  <img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=python&logoColor=blue" alt="sql">
 </div>
 
 #### Frameworks & Library
