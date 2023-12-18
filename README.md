@@ -39,6 +39,12 @@
     <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json">
 </div>
 
+#### Contact
+<div style="display: flex; gap: 2; flex-wrap: wrap">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+    [https://api.whatsapp.com/send?phone=55011975699770]<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="whatsapp">
+</div>
+
 
 ## Status
 <div style="display: flex; gap: 2; jusfiy-content: center">
