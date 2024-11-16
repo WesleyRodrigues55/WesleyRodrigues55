@@ -36,13 +36,14 @@
 
 #### Learning
 <div style="display: flex; gap: 2; flex-wrap: wrap">
-    <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java" alt="flutter">
+    <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java" alt="java">
 </div>
 
 ## Contact
 <div style="display: flex; gap: 2; flex-wrap: wrap">
   <a href="https://www.linkedin.com/in/wesley-rodrigues-708360144/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
   <a href="https://api.whatsapp.com/send?phone=55011975699770"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="whatsapp"></a>
+  <a href="mailto:wesley.santos140300@gmail.com"><img src="https://img.shields.io/badge/Email-20232A?style=for-the-badge&logo=gmail&logoColor=E4080A" alt="email"></a>
 </div>
 
 
