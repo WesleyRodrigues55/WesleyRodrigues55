@@ -30,12 +30,13 @@
       <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next">
       <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
       <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" alt="gitkraken">
+      <img src="https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB" alt="flutter">
+      <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json">
 </div>
 
 #### Learning
 <div style="display: flex; gap: 2; flex-wrap: wrap">
-    <img src="https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="flutter">
-    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json">
+    <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java" alt="flutter">
 </div>
 
 ## Contact
