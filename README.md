@@ -1,5 +1,5 @@
 ## About
-- My name is Wesley Rodrigues, I'm 24 years old, and I currently work as a Web Designer, I have a degree in Technologist in Systems Analysis and Development. I'm a very curious person, so I'm always learning new languages or programming tools. The projects in my repositories vary in programming languages, mainly because many of them are academic papers, but among them, there are also some personal projects.
+- My name is Wesley Rodrigues, I'm 25 years old, and I currently work as a Web Designer, I have a degree in Technologist in Systems Analysis and Development. I'm a very curious person, so I'm always learning new languages or programming tools. The projects in my repositories vary in programming languages, mainly because many of them are academic papers, but among them, there are also some personal projects.
 
 
 ## Soft Skills
