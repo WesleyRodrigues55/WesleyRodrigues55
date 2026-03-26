@@ -33,6 +33,7 @@
 #### Learning
 <div style="display: flex; gap: 2; flex-wrap: wrap">
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="csharp">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts">
     <img src="https://img.shields.io/badge/reactnative-20232A?style=for-the-badge&logo=react" alt="react-native">
 </div>
