@@ -1,7 +1,3 @@
-## About
-- My name is Wesley Rodrigues, I'm 25 years old, and I currently work as a Web Designer, I have a degree in Technologist in Systems Analysis and Development. I'm a very curious person, so I'm always learning new languages or programming tools. The projects in my repositories vary in programming languages, mainly because many of them are academic papers, but among them, there are also some personal projects.
-
-
 ## Soft Skills
 
 #### Programming languages
@@ -36,7 +32,9 @@
 
 #### Learning
 <div style="display: flex; gap: 2; flex-wrap: wrap">
-    <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java" alt="java">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="csharp">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts">
+    <img src="https://img.shields.io/badge/reactnative-20232A?style=for-the-badge&logo=react" alt="react-native">
 </div>
 
 ## Contact
